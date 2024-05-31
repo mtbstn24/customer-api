@@ -1,0 +1,6 @@
+customerID,name,email,address,tel,country,verifiedStatus
+A0001,John,john@email.com,"No 13, 1st lane, Highland, UK",1234546782,UK,true
+B0912,Bruce Lee,bruce-lee@mail.com,"No 54, Giver lane, Parkview, UK",1234540782,UK,true
+B9012,Nisha Light,light-nis@mail.com,"No 152, Gandhi road, Madras, India",1234511782,India,true
+D2310,Thushari,thush@mail.com,"No 12, Neru road, Colombo, LK",0774540782,LK,true
+A0002,Harith,har-email.com,"No 2, 2nd lane, Righta, USA",2341567261,USA,false

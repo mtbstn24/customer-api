@@ -1,0 +1,3 @@
+customerID,name,email,address,tel,country,verifiedStatus
+A0001,John,john@email.com,"No 13, 1st lane, Highland, UK",1234546782,UK,true
+B0912,Bruce Lee,bruce-lee@mail.com,"No 54, Giver lane, Parkview, UK",1234540782,UK,true
